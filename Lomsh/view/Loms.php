@@ -12,9 +12,9 @@
 
 
 <marquee width="100%" direction="left" height="50px">
-        Welcome to <b>Lab One Medical Services & Hospital</b> Lorem ipsum dolor sit amet consectetur
-        adipisicing elit. Itaque, doloribus! Alias inventore suscipit,
-        laudantium asperiores iste quisquam laboriosam praesentium rem!
+        Welcome to <b>Lab One Medical Services & Hospital</b>*** Please Wear a mask. Save lives. | 
+        Clean your hands | Keep a safe distance | Get vaccinated for COVID-19 and get a booster as soon as you're eligible |
+        Be aware of infection rates in your area
       </marquee>
 
 <div class="main-container">
