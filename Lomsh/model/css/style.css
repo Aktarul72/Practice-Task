@@ -1,0 +1,68 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+.landing-page__first-part {
+  background: url(../image/shutterstock_617787446.jpg);
+  height: 90vh;
+  min-height: 80vh;
+  background-size: 100% 100%;
+}
+
+.landing-page_first-part_title {
+  text-align: center;
+  font-size: 2rem;
+  color: rgb(67, 5, 138);
+  font-weight: bold;
+  padding: 2rem;
+  padding-bottom: 0;
+  float: center;
+  
+}
+
+.landing-page__first-part__paragraph{
+  text-align: justify;
+  font-size: 1.5rem;
+  padding: 1rem;
+  border-style: ridge;
+}
+
+.landing-page__first-part__button{
+  background-color: #4CAF50;
+  border: 1px solid rgb(255, 99, 99);
+  color: white;
+  padding: 4px 8px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  position: fixed;
+  left: 35px;
+  bottom: 70vh;
+}
+
+.landing-page__second-part-services{
+  display: inline-block;
+  padding: 2rem;
+  max-width: 100%;
+  height: 40vh;
+  width: 100%;
+  border-radius: 5px;
+  background-color: rgb(31, 137, 236);
+  box-shadow: 0 20px 28px rgba(0, 0, 0, 0.25), 0 10px 10px rgba(0, 0, 0, 0.22);
+}
+
+.landing-page__second-part-services{
+
+  float: left;
+}
+
+marquee {
+  background-color: #706fda;
+  padding: 10px;
+  font-size: 1.5rem;
+  color: white;
+}
+
